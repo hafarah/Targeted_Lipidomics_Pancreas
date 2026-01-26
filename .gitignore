@@ -1,3 +1,22 @@
+# Ignore Raw Data Files and Images
+
+# Images
+*.png  
+*.jpg  
+*.jpeg
+*.tiff
+
+# Ignore Figures directory
+Figures/
+
+# Ignore Data and Files
+*.csv
+*.txt
+*.docx
+*.xlsx
+*.xls
+*.xml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
