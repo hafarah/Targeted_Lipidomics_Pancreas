@@ -266,4 +266,4 @@ dependencies:
   - pip:
     - uv==0.9.17
 
-prefix: "C:\\Users\\husse\\miniforge3\\envs\\bioinformatics"
+prefix: "C:\\Users\\""\\miniforge3\\envs\\bioinformatics"
